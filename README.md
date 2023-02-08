@@ -1,5 +1,4 @@
 # Neural_Network_Charity_Analysis
-module 19 repo
 Alphabet Soup Charity Analysis
 # Overview
  -Alphabet Soup has a history of funding 34000 organizations in the past. It has been determined that some of the money is slipping through hands and not making its way for the intended cause. This analysis to for the purpose of seeing which organizations are most likely to use the money properly.
@@ -34,7 +33,7 @@ Alphabet Soup Charity Analysis
 	-Used, Tensorflow, Keres and Sigmoid
 
 ### Summary
-	-SPECIAL NOTE: All work for this challenge had to be completed in Colab. I attempted to use Jupyter Notebook however cells would not run due to kernel die. After googling for a solution, it is not uncommon but no fixes were found, also consulted with TA’s,LA’s and Tutor we found the only way was to use Colab. I ran Deliverable 1 and 2 and did one additional run incasing the epochs but on the 3rd attempt colab crashed due to memory usage.
+
 	-The original model had 1.2 loss and .53 accuracy
 	-The first trial (increasing epochs) with the same result
 	-The second trial (adding back “Name” column), program crashed
